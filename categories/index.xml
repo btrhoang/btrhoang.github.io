@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Bao Tran Hoang</title>
+    <link>https://btrhoang.github.io/categories/</link>
+    <description>Recent content in Categories on Bao Tran Hoang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 Nov 2023 17:36:41 +0700</lastBuildDate><atom:link href="https://btrhoang.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sugar</title>
+      <link>https://btrhoang.github.io/categories/sugar/</link>
+      <pubDate>Sun, 26 Nov 2023 17:36:41 +0700</pubDate>
+      
+      <guid>https://btrhoang.github.io/categories/sugar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Science-philes</title>
+      <link>https://btrhoang.github.io/categories/science-philes/</link>
+      <pubDate>Fri, 27 Oct 2023 20:38:21 +0700</pubDate>
+      
+      <guid>https://btrhoang.github.io/categories/science-philes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MUN</title>
+      <link>https://btrhoang.github.io/categories/mun/</link>
+      <pubDate>Fri, 27 Oct 2023 20:17:48 +0700</pubDate>
+      
+      <guid>https://btrhoang.github.io/categories/mun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weight-Loss-Journey</title>
+      <link>https://btrhoang.github.io/categories/weight-loss-journey/</link>
+      <pubDate>Fri, 27 Oct 2023 20:11:32 +0700</pubDate>
+      
+      <guid>https://btrhoang.github.io/categories/weight-loss-journey/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
